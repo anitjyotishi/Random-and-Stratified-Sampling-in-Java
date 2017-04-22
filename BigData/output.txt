@@ -1,0 +1,658 @@
+This is Random Sampling with replacement.
+The no of records in input file is: 3273.
+No. of records with size 10% of the original size is: 327.
+Randomly Sampled records at 10% (with replacement) are as follows: 
+The value of x,y and c respectively are 674.821,315.093,0 which is the record no. 8 (random no.) in our input file.
+The value of x,y and c respectively are 343.329,369.994,2 which is the record no. 296 (random no.) in our input file.
+The value of x,y and c respectively are 152.072,342.404,1 which is the record no. 145 (random no.) in our input file.
+The value of x,y and c respectively are 489.323,53.989,3 which is the record no. 322 (random no.) in our input file.
+The value of x,y and c respectively are 157.497,371.658,1 which is the record no. 187 (random no.) in our input file.
+The value of x,y and c respectively are 316.539,353.64,2 which is the record no. 275 (random no.) in our input file.
+The value of x,y and c respectively are 468.284,54.237,3 which is the record no. 324 (random no.) in our input file.
+The value of x,y and c respectively are 339.705,367.928,2 which is the record no. 293 (random no.) in our input file.
+The value of x,y and c respectively are 639.959,335.242,0 which is the record no. 42 (random no.) in our input file.
+The value of x,y and c respectively are 136.333,340.328,1 which is the record no. 139 (random no.) in our input file.
+The value of x,y and c respectively are 676.484,342.75,0 which is the record no. 53 (random no.) in our input file.
+The value of x,y and c respectively are 676.484,342.75,0 which is the record no. 53 (random no.) in our input file.
+The value of x,y and c respectively are 344.49,338.303,2 which is the record no. 244 (random no.) in our input file.
+The value of x,y and c respectively are 624.855,360.424,0 which is the record no. 76 (random no.) in our input file.
+The value of x,y and c respectively are 640.484,309.592,0 which is the record no. 5 (random no.) in our input file.
+The value of x,y and c respectively are 451.672,48.477,3 which is the record no. 317 (random no.) in our input file.
+The value of x,y and c respectively are 144.727,363.41,1 which is the record no. 174 (random no.) in our input file.
+The value of x,y and c respectively are 125.206,346.962,1 which is the record no. 154 (random no.) in our input file.
+The value of x,y and c respectively are 184.485,339.211,1 which is the record no. 137 (random no.) in our input file.
+The value of x,y and c respectively are 651.423,329.337,0 which is the record no. 31 (random no.) in our input file.
+The value of x,y and c respectively are 648.966,356.048,0 which is the record no. 73 (random no.) in our input file.
+The value of x,y and c respectively are 629.259,347.766,0 which is the record no. 61 (random no.) in our input file.
+The value of x,y and c respectively are 661.43,372.276,0 which is the record no. 86 (random no.) in our input file.
+The value of x,y and c respectively are 349.633,380.861,2 which is the record no. 307 (random no.) in our input file.
+The value of x,y and c respectively are 637.439,318.289,0 which is the record no. 12 (random no.) in our input file.
+The value of x,y and c respectively are 316.021,354.83,2 which is the record no. 277 (random no.) in our input file.
+The value of x,y and c respectively are 649.948,333.168,0 which is the record no. 37 (random no.) in our input file.
+The value of x,y and c respectively are 322.76,307.044,2 which is the record no. 203 (random no.) in our input file.
+The value of x,y and c respectively are 365.499,359.163,2 which is the record no. 282 (random no.) in our input file.
+The value of x,y and c respectively are 474.738,54.167,3 which is the record no. 323 (random no.) in our input file.
+The value of x,y and c respectively are 367.37,322.193,2 which is the record no. 217 (random no.) in our input file.
+The value of x,y and c respectively are 138.571,371.407,1 which is the record no. 185 (random no.) in our input file.
+The value of x,y and c respectively are 622.928,342.459,0 which is the record no. 51 (random no.) in our input file.
+The value of x,y and c respectively are 350.748,323.821,2 which is the record no. 221 (random no.) in our input file.
+The value of x,y and c respectively are 365.499,359.163,2 which is the record no. 282 (random no.) in our input file.
+The value of x,y and c respectively are 158.234,316.942,1 which is the record no. 96 (random no.) in our input file.
+The value of x,y and c respectively are 188.385,321.231,1 which is the record no. 100 (random no.) in our input file.
+The value of x,y and c respectively are 650.43,371.572,0 which is the record no. 85 (random no.) in our input file.
+The value of x,y and c respectively are 312.171,345.928,2 which is the record no. 265 (random no.) in our input file.
+The value of x,y and c respectively are 200.468,335.644,1 which is the record no. 130 (random no.) in our input file.
+The value of x,y and c respectively are 157.497,371.658,1 which is the record no. 187 (random no.) in our input file.
+The value of x,y and c respectively are 627.324,341.603,0 which is the record no. 49 (random no.) in our input file.
+The value of x,y and c respectively are 650.43,371.572,0 which is the record no. 85 (random no.) in our input file.
+The value of x,y and c respectively are 303.768,337.46,2 which is the record no. 243 (random no.) in our input file.
+The value of x,y and c respectively are 310.511,345.281,2 which is the record no. 264 (random no.) in our input file.
+The value of x,y and c respectively are 140.855,327.583,1 which is the record no. 108 (random no.) in our input file.
+The value of x,y and c respectively are 642.366,345.063,0 which is the record no. 54 (random no.) in our input file.
+The value of x,y and c respectively are 650.768,347.282,0 which is the record no. 59 (random no.) in our input file.
+The value of x,y and c respectively are 328.436,316.801,2 which is the record no. 212 (random no.) in our input file.
+The value of x,y and c respectively are 336.719,335.237,2 which is the record no. 240 (random no.) in our input file.
+The value of x,y and c respectively are 324.706,322.709,2 which is the record no. 219 (random no.) in our input file.
+The value of x,y and c respectively are 358.554,376.035,2 which is the record no. 303 (random no.) in our input file.
+The value of x,y and c respectively are 652.268,326.389,0 which is the record no. 24 (random no.) in our input file.
+The value of x,y and c respectively are 622.679,320.843,0 which is the record no. 14 (random no.) in our input file.
+The value of x,y and c respectively are 639.035,324.523,0 which is the record no. 21 (random no.) in our input file.
+The value of x,y and c respectively are 138.571,371.407,1 which is the record no. 185 (random no.) in our input file.
+The value of x,y and c respectively are 331.361,377.574,2 which is the record no. 306 (random no.) in our input file.
+The value of x,y and c respectively are 197.979,337.757,1 which is the record no. 133 (random no.) in our input file.
+The value of x,y and c respectively are 128.484,330.468,1 which is the record no. 118 (random no.) in our input file.
+The value of x,y and c respectively are 170.311,372.819,1 which is the record no. 189 (random no.) in our input file.
+The value of x,y and c respectively are 316.021,354.83,2 which is the record no. 277 (random no.) in our input file.
+The value of x,y and c respectively are 665.755,327.567,0 which is the record no. 25 (random no.) in our input file.
+The value of x,y and c respectively are 184.485,339.211,1 which is the record no. 137 (random no.) in our input file.
+The value of x,y and c respectively are 162.91,380.567,1 which is the record no. 199 (random no.) in our input file.
+The value of x,y and c respectively are 351.49,372.812,2 which is the record no. 299 (random no.) in our input file.
+The value of x,y and c respectively are 666.254,366.738,0 which is the record no. 83 (random no.) in our input file.
+The value of x,y and c respectively are 310.511,345.281,2 which is the record no. 264 (random no.) in our input file.
+The value of x,y and c respectively are 146.451,359.416,1 which is the record no. 170 (random no.) in our input file.
+The value of x,y and c respectively are 637.439,318.289,0 which is the record no. 12 (random no.) in our input file.
+The value of x,y and c respectively are 637.081,323.619,0 which is the record no. 19 (random no.) in our input file.
+The value of x,y and c respectively are 638.583,365.65,0 which is the record no. 82 (random no.) in our input file.
+The value of x,y and c respectively are 142.978,361.95,1 which is the record no. 171 (random no.) in our input file.
+The value of x,y and c respectively are 321.703,372.978,2 which is the record no. 300 (random no.) in our input file.
+The value of x,y and c respectively are 127.327,350.908,1 which is the record no. 159 (random no.) in our input file.
+The value of x,y and c respectively are 352.146,328.862,2 which is the record no. 226 (random no.) in our input file.
+The value of x,y and c respectively are 139.807,367.959,1 which is the record no. 181 (random no.) in our input file.
+The value of x,y and c respectively are 656.628,348.501,0 which is the record no. 63 (random no.) in our input file.
+The value of x,y and c respectively are 163.921,328.34,1 which is the record no. 110 (random no.) in our input file.
+The value of x,y and c respectively are 176.53,343.547,1 which is the record no. 148 (random no.) in our input file.
+The value of x,y and c respectively are 165.121,345.513,1 which is the record no. 152 (random no.) in our input file.
+The value of x,y and c respectively are 325.111,316.065,2 which is the record no. 211 (random no.) in our input file.
+The value of x,y and c respectively are 186.492,366.136,1 which is the record no. 177 (random no.) in our input file.
+The value of x,y and c respectively are 136.333,340.328,1 which is the record no. 139 (random no.) in our input file.
+The value of x,y and c respectively are 183.168,372.223,1 which is the record no. 188 (random no.) in our input file.
+The value of x,y and c respectively are 376.024,330.619,2 which is the record no. 233 (random no.) in our input file.
+The value of x,y and c respectively are 447.604,51.804,3 which is the record no. 318 (random no.) in our input file.
+The value of x,y and c respectively are 336.719,335.237,2 which is the record no. 240 (random no.) in our input file.
+The value of x,y and c respectively are 306.04,344.25,2 which is the record no. 259 (random no.) in our input file.
+The value of x,y and c respectively are 175.094,321.902,1 which is the record no. 101 (random no.) in our input file.
+The value of x,y and c respectively are 309.395,365.09,2 which is the record no. 289 (random no.) in our input file.
+The value of x,y and c respectively are 459.989,48.062,3 which is the record no. 316 (random no.) in our input file.
+The value of x,y and c respectively are 373.097,340.763,2 which is the record no. 251 (random no.) in our input file.
+The value of x,y and c respectively are 683.672,330.534,0 which is the record no. 33 (random no.) in our input file.
+The value of x,y and c respectively are 655.504,320.916,0 which is the record no. 15 (random no.) in our input file.
+The value of x,y and c respectively are 644.647,325.905,0 which is the record no. 23 (random no.) in our input file.
+The value of x,y and c respectively are 321.18,315.663,2 which is the record no. 210 (random no.) in our input file.
+The value of x,y and c respectively are 361.789,349.989,2 which is the record no. 268 (random no.) in our input file.
+The value of x,y and c respectively are 659.838,353.262,0 which is the record no. 72 (random no.) in our input file.
+The value of x,y and c respectively are 147.813,369.185,1 which is the record no. 182 (random no.) in our input file.
+The value of x,y and c respectively are 682.478,331.858,0 which is the record no. 35 (random no.) in our input file.
+The value of x,y and c respectively are 328.638,350.035,2 which is the record no. 269 (random no.) in our input file.
+The value of x,y and c respectively are 649.948,333.168,0 which is the record no. 37 (random no.) in our input file.
+The value of x,y and c respectively are 626.318,321.78,0 which is the record no. 16 (random no.) in our input file.
+The value of x,y and c respectively are 656.628,348.501,0 which is the record no. 63 (random no.) in our input file.
+The value of x,y and c respectively are 155.613,377.032,1 which is the record no. 194 (random no.) in our input file.
+The value of x,y and c respectively are 370.213,334.867,2 which is the record no. 238 (random no.) in our input file.
+The value of x,y and c respectively are 354.668,341.4,2 which is the record no. 252 (random no.) in our input file.
+The value of x,y and c respectively are 327.576,373.535,2 which is the record no. 301 (random no.) in our input file.
+The value of x,y and c respectively are 151.856,375.167,1 which is the record no. 191 (random no.) in our input file.
+The value of x,y and c respectively are 349.132,351.455,2 which is the record no. 273 (random no.) in our input file.
+The value of x,y and c respectively are 182.901,351.725,1 which is the record no. 160 (random no.) in our input file.
+The value of x,y and c respectively are 661.43,372.276,0 which is the record no. 86 (random no.) in our input file.
+The value of x,y and c respectively are 181.997,312.281,1 which is the record no. 94 (random no.) in our input file.
+The value of x,y and c respectively are 127.327,350.908,1 which is the record no. 159 (random no.) in our input file.
+The value of x,y and c respectively are 672.056,347.548,0 which is the record no. 60 (random no.) in our input file.
+The value of x,y and c respectively are 669.789,357.397,0 which is the record no. 74 (random no.) in our input file.
+The value of x,y and c respectively are 129.107,332.022,1 which is the record no. 122 (random no.) in our input file.
+The value of x,y and c respectively are 347.617,370.365,2 which is the record no. 297 (random no.) in our input file.
+The value of x,y and c respectively are 139.807,367.959,1 which is the record no. 181 (random no.) in our input file.
+The value of x,y and c respectively are 185.038,359.301,1 which is the record no. 169 (random no.) in our input file.
+The value of x,y and c respectively are 662.753,307.565,0 which is the record no. 2 (random no.) in our input file.
+The value of x,y and c respectively are 295.095,342.319,2 which is the record no. 255 (random no.) in our input file.
+The value of x,y and c respectively are 318.342,340.531,2 which is the record no. 248 (random no.) in our input file.
+The value of x,y and c respectively are 474.738,54.167,3 which is the record no. 323 (random no.) in our input file.
+The value of x,y and c respectively are 176.53,343.547,1 which is the record no. 148 (random no.) in our input file.
+The value of x,y and c respectively are 312.98,349.579,2 which is the record no. 267 (random no.) in our input file.
+The value of x,y and c respectively are 622.928,342.459,0 which is the record no. 51 (random no.) in our input file.
+The value of x,y and c respectively are 359.632,336.229,2 which is the record no. 241 (random no.) in our input file.
+The value of x,y and c respectively are 655.504,320.916,0 which is the record no. 15 (random no.) in our input file.
+The value of x,y and c respectively are 638.583,365.65,0 which is the record no. 82 (random no.) in our input file.
+The value of x,y and c respectively are 674.821,315.093,0 which is the record no. 8 (random no.) in our input file.
+The value of x,y and c respectively are 329.298,307.033,2 which is the record no. 202 (random no.) in our input file.
+The value of x,y and c respectively are 328.638,350.035,2 which is the record no. 269 (random no.) in our input file.
+The value of x,y and c respectively are 197.979,337.757,1 which is the record no. 133 (random no.) in our input file.
+The value of x,y and c respectively are 637.791,350.903,0 which is the record no. 69 (random no.) in our input file.
+The value of x,y and c respectively are 172.762,324.576,1 which is the record no. 105 (random no.) in our input file.
+The value of x,y and c respectively are 334.586,329.567,2 which is the record no. 230 (random no.) in our input file.
+The value of x,y and c respectively are 637.081,323.619,0 which is the record no. 19 (random no.) in our input file.
+The value of x,y and c respectively are 659.838,353.262,0 which is the record no. 72 (random no.) in our input file.
+The value of x,y and c respectively are 175.568,353.932,1 which is the record no. 162 (random no.) in our input file.
+The value of x,y and c respectively are 675.27,327.608,0 which is the record no. 26 (random no.) in our input file.
+The value of x,y and c respectively are 647.217,340.107,0 which is the record no. 44 (random no.) in our input file.
+The value of x,y and c respectively are 356.246,320.109,2 which is the record no. 213 (random no.) in our input file.
+The value of x,y and c respectively are 183.168,372.223,1 which is the record no. 188 (random no.) in our input file.
+The value of x,y and c respectively are 165.121,345.513,1 which is the record no. 152 (random no.) in our input file.
+The value of x,y and c respectively are 177.629,375.408,1 which is the record no. 193 (random no.) in our input file.
+The value of x,y and c respectively are 336.719,335.237,2 which is the record no. 240 (random no.) in our input file.
+The value of x,y and c respectively are 638.583,365.65,0 which is the record no. 82 (random no.) in our input file.
+The value of x,y and c respectively are 633.245,322.492,0 which is the record no. 17 (random no.) in our input file.
+The value of x,y and c respectively are 149.332,322.096,1 which is the record no. 102 (random no.) in our input file.
+The value of x,y and c respectively are 154.945,329.416,1 which is the record no. 114 (random no.) in our input file.
+The value of x,y and c respectively are 638.583,365.65,0 which is the record no. 82 (random no.) in our input file.
+The value of x,y and c respectively are 654.751,347.881,0 which is the record no. 62 (random no.) in our input file.
+The value of x,y and c respectively are 178.037,343.672,1 which is the record no. 150 (random no.) in our input file.
+The value of x,y and c respectively are 172.762,324.576,1 which is the record no. 105 (random no.) in our input file.
+The value of x,y and c respectively are 318.342,340.531,2 which is the record no. 248 (random no.) in our input file.
+The value of x,y and c respectively are 147.813,369.185,1 which is the record no. 182 (random no.) in our input file.
+The value of x,y and c respectively are 155.358,377.929,1 which is the record no. 196 (random no.) in our input file.
+The value of x,y and c respectively are 635.273,308.157,0 which is the record no. 4 (random no.) in our input file.
+The value of x,y and c respectively are 662.753,307.565,0 which is the record no. 2 (random no.) in our input file.
+The value of x,y and c respectively are 468.284,54.237,3 which is the record no. 324 (random no.) in our input file.
+The value of x,y and c respectively are 319.294,329.545,2 which is the record no. 228 (random no.) in our input file.
+The value of x,y and c respectively are 129.107,332.022,1 which is the record no. 122 (random no.) in our input file.
+The value of x,y and c respectively are 141.478,367.346,1 which is the record no. 180 (random no.) in our input file.
+The value of x,y and c respectively are 162.91,380.567,1 which is the record no. 199 (random no.) in our input file.
+The value of x,y and c respectively are 327.318,353.692,2 which is the record no. 276 (random no.) in our input file.
+The value of x,y and c respectively are 636.213,306.174,0 which is the record no. 1 (random no.) in our input file.
+The value of x,y and c respectively are 353.396,329.17,2 which is the record no. 227 (random no.) in our input file.
+The value of x,y and c respectively are 371.565,331.405,2 which is the record no. 234 (random no.) in our input file.
+The value of x,y and c respectively are 314.833,365.398,2 which is the record no. 290 (random no.) in our input file.
+The value of x,y and c respectively are 167.174,328.263,1 which is the record no. 109 (random no.) in our input file.
+The value of x,y and c respectively are 193.875,342.382,1 which is the record no. 144 (random no.) in our input file.
+The value of x,y and c respectively are 642.738,349.951,0 which is the record no. 66 (random no.) in our input file.
+The value of x,y and c respectively are 357.02,345.129,2 which is the record no. 262 (random no.) in our input file.
+The value of x,y and c respectively are 356.246,320.109,2 which is the record no. 213 (random no.) in our input file.
+The value of x,y and c respectively are 150.449,322.89,1 which is the record no. 104 (random no.) in our input file.
+The value of x,y and c respectively are 654.517,352.398,0 which is the record no. 71 (random no.) in our input file.
+The value of x,y and c respectively are 311.678,340.689,2 which is the record no. 249 (random no.) in our input file.
+The value of x,y and c respectively are 309.119,321.986,2 which is the record no. 216 (random no.) in our input file.
+The value of x,y and c respectively are 645.513,334.213,0 which is the record no. 40 (random no.) in our input file.
+The value of x,y and c respectively are 127.327,350.908,1 which is the record no. 159 (random no.) in our input file.
+The value of x,y and c respectively are 487.319,54.287,3 which is the record no. 325 (random no.) in our input file.
+The value of x,y and c respectively are 351.49,372.812,2 which is the record no. 299 (random no.) in our input file.
+The value of x,y and c respectively are 306.04,344.25,2 which is the record no. 259 (random no.) in our input file.
+The value of x,y and c respectively are 158.234,316.942,1 which is the record no. 96 (random no.) in our input file.
+The value of x,y and c respectively are 321.18,315.663,2 which is the record no. 210 (random no.) in our input file.
+The value of x,y and c respectively are 322.76,307.044,2 which is the record no. 203 (random no.) in our input file.
+The value of x,y and c respectively are 132.401,322.735,1 which is the record no. 103 (random no.) in our input file.
+The value of x,y and c respectively are 168.092,331.83,1 which is the record no. 121 (random no.) in our input file.
+The value of x,y and c respectively are 331.361,377.574,2 which is the record no. 306 (random no.) in our input file.
+The value of x,y and c respectively are 364.513,330.463,2 which is the record no. 232 (random no.) in our input file.
+The value of x,y and c respectively are 134.443,361.955,1 which is the record no. 172 (random no.) in our input file.
+The value of x,y and c respectively are 637.439,318.289,0 which is the record no. 12 (random no.) in our input file.
+The value of x,y and c respectively are 184.109,355.875,1 which is the record no. 165 (random no.) in our input file.
+The value of x,y and c respectively are 673.506,317.648,0 which is the record no. 11 (random no.) in our input file.
+The value of x,y and c respectively are 354.668,341.4,2 which is the record no. 252 (random no.) in our input file.
+The value of x,y and c respectively are 657.487,307.74,0 which is the record no. 3 (random no.) in our input file.
+The value of x,y and c respectively are 156.03,330.695,1 which is the record no. 119 (random no.) in our input file.
+The value of x,y and c respectively are 640.484,309.592,0 which is the record no. 5 (random no.) in our input file.
+The value of x,y and c respectively are 660.134,348.671,0 which is the record no. 64 (random no.) in our input file.
+The value of x,y and c respectively are 188.031,330.014,1 which is the record no. 115 (random no.) in our input file.
+The value of x,y and c respectively are 624.463,333.342,0 which is the record no. 39 (random no.) in our input file.
+The value of x,y and c respectively are 142.978,361.95,1 which is the record no. 171 (random no.) in our input file.
+The value of x,y and c respectively are 319.884,313.587,2 which is the record no. 208 (random no.) in our input file.
+The value of x,y and c respectively are 129.898,326.107,1 which is the record no. 107 (random no.) in our input file.
+The value of x,y and c respectively are 447.401,52.68,3 which is the record no. 320 (random no.) in our input file.
+The value of x,y and c respectively are 155.613,377.032,1 which is the record no. 194 (random no.) in our input file.
+The value of x,y and c respectively are 163.921,328.34,1 which is the record no. 110 (random no.) in our input file.
+The value of x,y and c respectively are 309.967,361.84,2 which is the record no. 284 (random no.) in our input file.
+The value of x,y and c respectively are 340.122,351.188,2 which is the record no. 272 (random no.) in our input file.
+The value of x,y and c respectively are 332.038,329.567,2 which is the record no. 229 (random no.) in our input file.
+The value of x,y and c respectively are 163.283,357.159,1 which is the record no. 167 (random no.) in our input file.
+The value of x,y and c respectively are 154.945,329.416,1 which is the record no. 114 (random no.) in our input file.
+The value of x,y and c respectively are 474.738,54.167,3 which is the record no. 323 (random no.) in our input file.
+The value of x,y and c respectively are 351.887,311.603,2 which is the record no. 205 (random no.) in our input file.
+The value of x,y and c respectively are 129.107,332.022,1 which is the record no. 122 (random no.) in our input file.
+The value of x,y and c respectively are 489.323,53.989,3 which is the record no. 322 (random no.) in our input file.
+The value of x,y and c respectively are 147.366,379.114,1 which is the record no. 198 (random no.) in our input file.
+The value of x,y and c respectively are 642.366,345.063,0 which is the record no. 54 (random no.) in our input file.
+The value of x,y and c respectively are 337.131,362.059,2 which is the record no. 285 (random no.) in our input file.
+The value of x,y and c respectively are 368.832,354.848,2 which is the record no. 278 (random no.) in our input file.
+The value of x,y and c respectively are 351.49,372.812,2 which is the record no. 299 (random no.) in our input file.
+The value of x,y and c respectively are 362.763,354.907,2 which is the record no. 279 (random no.) in our input file.
+The value of x,y and c respectively are 644.003,320.565,0 which is the record no. 13 (random no.) in our input file.
+The value of x,y and c respectively are 156.903,318.774,1 which is the record no. 97 (random no.) in our input file.
+The value of x,y and c respectively are 655.504,320.916,0 which is the record no. 15 (random no.) in our input file.
+The value of x,y and c respectively are 679.985,341.547,0 which is the record no. 48 (random no.) in our input file.
+The value of x,y and c respectively are 349.132,351.455,2 which is the record no. 273 (random no.) in our input file.
+The value of x,y and c respectively are 171.829,319.959,1 which is the record no. 99 (random no.) in our input file.
+The value of x,y and c respectively are 309.967,361.84,2 which is the record no. 284 (random no.) in our input file.
+The value of x,y and c respectively are 188.627,340.491,1 which is the record no. 141 (random no.) in our input file.
+The value of x,y and c respectively are 328.638,350.035,2 which is the record no. 269 (random no.) in our input file.
+The value of x,y and c respectively are 310.511,345.281,2 which is the record no. 264 (random no.) in our input file.
+The value of x,y and c respectively are 186.492,366.136,1 which is the record no. 177 (random no.) in our input file.
+The value of x,y and c respectively are 685.94,340.389,0 which is the record no. 45 (random no.) in our input file.
+The value of x,y and c respectively are 315.665,323.192,2 which is the record no. 220 (random no.) in our input file.
+The value of x,y and c respectively are 328.436,316.801,2 which is the record no. 212 (random no.) in our input file.
+The value of x,y and c respectively are 357.739,321.053,2 which is the record no. 214 (random no.) in our input file.
+The value of x,y and c respectively are 330.765,363.646,2 which is the record no. 286 (random no.) in our input file.
+The value of x,y and c respectively are 654.517,352.398,0 which is the record no. 71 (random no.) in our input file.
+The value of x,y and c respectively are 637.791,350.903,0 which is the record no. 69 (random no.) in our input file.
+The value of x,y and c respectively are 456.12,52.193,3 which is the record no. 319 (random no.) in our input file.
+The value of x,y and c respectively are 342.261,333.749,2 which is the record no. 236 (random no.) in our input file.
+The value of x,y and c respectively are 350.748,323.821,2 which is the record no. 221 (random no.) in our input file.
+The value of x,y and c respectively are 653.469,370.728,0 which is the record no. 84 (random no.) in our input file.
+The value of x,y and c respectively are 352.146,328.862,2 which is the record no. 226 (random no.) in our input file.
+The value of x,y and c respectively are 185.668,335.604,1 which is the record no. 129 (random no.) in our input file.
+The value of x,y and c respectively are 132.401,322.735,1 which is the record no. 103 (random no.) in our input file.
+The value of x,y and c respectively are 639.035,324.523,0 which is the record no. 21 (random no.) in our input file.
+The value of x,y and c respectively are 648.966,356.048,0 which is the record no. 73 (random no.) in our input file.
+The value of x,y and c respectively are 373.097,340.763,2 which is the record no. 251 (random no.) in our input file.
+The value of x,y and c respectively are 651.423,329.337,0 which is the record no. 31 (random no.) in our input file.
+The value of x,y and c respectively are 474.738,54.167,3 which is the record no. 323 (random no.) in our input file.
+The value of x,y and c respectively are 340.122,351.188,2 which is the record no. 272 (random no.) in our input file.
+The value of x,y and c respectively are 154.945,329.416,1 which is the record no. 114 (random no.) in our input file.
+The value of x,y and c respectively are 176.65,371.485,1 which is the record no. 186 (random no.) in our input file.
+The value of x,y and c respectively are 188.627,340.491,1 which is the record no. 141 (random no.) in our input file.
+The value of x,y and c respectively are 618.936,341.409,0 which is the record no. 47 (random no.) in our input file.
+The value of x,y and c respectively are 638.583,365.65,0 which is the record no. 82 (random no.) in our input file.
+The value of x,y and c respectively are 631.858,316.908,0 which is the record no. 10 (random no.) in our input file.
+The value of x,y and c respectively are 673.506,317.648,0 which is the record no. 11 (random no.) in our input file.
+The value of x,y and c respectively are 332.038,329.567,2 which is the record no. 229 (random no.) in our input file.
+The value of x,y and c respectively are 658.759,312.594,0 which is the record no. 7 (random no.) in our input file.
+The value of x,y and c respectively are 147.366,379.114,1 which is the record no. 198 (random no.) in our input file.
+The value of x,y and c respectively are 200.468,335.644,1 which is the record no. 130 (random no.) in our input file.
+The value of x,y and c respectively are 667.14,364.033,0 which is the record no. 79 (random no.) in our input file.
+The value of x,y and c respectively are 165.883,375.174,1 which is the record no. 192 (random no.) in our input file.
+The value of x,y and c respectively are 175.094,321.902,1 which is the record no. 101 (random no.) in our input file.
+The value of x,y and c respectively are 152.655,345.182,1 which is the record no. 151 (random no.) in our input file.
+The value of x,y and c respectively are 315.665,323.192,2 which is the record no. 220 (random no.) in our input file.
+The value of x,y and c respectively are 155.613,377.032,1 which is the record no. 194 (random no.) in our input file.
+The value of x,y and c respectively are 151.856,375.167,1 which is the record no. 191 (random no.) in our input file.
+The value of x,y and c respectively are 376.024,330.619,2 which is the record no. 233 (random no.) in our input file.
+The value of x,y and c respectively are 447.604,51.804,3 which is the record no. 318 (random no.) in our input file.
+The value of x,y and c respectively are 367.37,322.193,2 which is the record no. 217 (random no.) in our input file.
+The value of x,y and c respectively are 318.411,345.202,2 which is the record no. 263 (random no.) in our input file.
+The value of x,y and c respectively are 142.978,361.95,1 which is the record no. 171 (random no.) in our input file.
+The value of x,y and c respectively are 666.442,331.637,0 which is the record no. 34 (random no.) in our input file.
+The value of x,y and c respectively are 128.484,330.468,1 which is the record no. 118 (random no.) in our input file.
+The value of x,y and c respectively are 193.875,342.382,1 which is the record no. 144 (random no.) in our input file.
+The value of x,y and c respectively are 188.385,321.231,1 which is the record no. 100 (random no.) in our input file.
+The value of x,y and c respectively are 367.37,322.193,2 which is the record no. 217 (random no.) in our input file.
+The value of x,y and c respectively are 371.977,335.02,2 which is the record no. 239 (random no.) in our input file.
+The value of x,y and c respectively are 157.497,371.658,1 which is the record no. 187 (random no.) in our input file.
+The value of x,y and c respectively are 669.789,357.397,0 which is the record no. 74 (random no.) in our input file.
+The value of x,y and c respectively are 139.807,367.959,1 which is the record no. 181 (random no.) in our input file.
+The value of x,y and c respectively are 341.805,361.755,2 which is the record no. 283 (random no.) in our input file.
+The value of x,y and c respectively are 369.885,325.104,2 which is the record no. 223 (random no.) in our input file.
+The value of x,y and c respectively are 627.324,341.603,0 which is the record no. 49 (random no.) in our input file.
+The value of x,y and c respectively are 660.976,304.225,0 which is the record no. 0 (random no.) in our input file.
+The value of x,y and c respectively are 371.168,345.096,2 which is the record no. 260 (random no.) in our input file.
+The value of x,y and c respectively are 624.463,333.342,0 which is the record no. 39 (random no.) in our input file.
+The value of x,y and c respectively are 665.373,359.929,0 which is the record no. 75 (random no.) in our input file.
+The value of x,y and c respectively are 132.401,322.735,1 which is the record no. 103 (random no.) in our input file.
+The value of x,y and c respectively are 148.658,310.898,1 which is the record no. 92 (random no.) in our input file.
+The value of x,y and c respectively are 156.466,354.278,1 which is the record no. 163 (random no.) in our input file.
+The value of x,y and c respectively are 178.86,324.684,1 which is the record no. 106 (random no.) in our input file.
+The value of x,y and c respectively are 646.127,329.862,0 which is the record no. 32 (random no.) in our input file.
+The value of x,y and c respectively are 653.079,324.434,0 which is the record no. 20 (random no.) in our input file.
+The value of x,y and c respectively are 652.024,349.986,0 which is the record no. 67 (random no.) in our input file.
+The value of x,y and c respectively are 343.329,369.994,2 which is the record no. 296 (random no.) in our input file.
+The value of x,y and c respectively are 129.107,332.022,1 which is the record no. 122 (random no.) in our input file.
+The value of x,y and c respectively are 624.855,360.424,0 which is the record no. 76 (random no.) in our input file.
+The value of x,y and c respectively are 311.678,340.689,2 which is the record no. 249 (random no.) in our input file.
+The value of x,y and c respectively are 370.213,334.867,2 which is the record no. 238 (random no.) in our input file.
+The value of x,y and c respectively are 165.121,345.513,1 which is the record no. 152 (random no.) in our input file.
+The value of x,y and c respectively are 670.422,336.607,0 which is the record no. 43 (random no.) in our input file.
+The value of x,y and c respectively are 639.959,335.242,0 which is the record no. 42 (random no.) in our input file.
+The value of x,y and c respectively are 333.868,312.928,2 which is the record no. 207 (random no.) in our input file.
+The value of x,y and c respectively are 345.291,376.266,2 which is the record no. 304 (random no.) in our input file.
+The value of x,y and c respectively are 344.49,338.303,2 which is the record no. 244 (random no.) in our input file.
+The value of x,y and c respectively are 161.773,350.404,1 which is the record no. 157 (random no.) in our input file.
+The value of x,y and c respectively are 659.838,353.262,0 which is the record no. 72 (random no.) in our input file.
+The value of x,y and c respectively are 188.031,330.014,1 which is the record no. 115 (random no.) in our input file.
+The value of x,y and c respectively are 171.829,319.959,1 which is the record no. 99 (random no.) in our input file.
+The value of x,y and c respectively are 447.604,51.804,3 which is the record no. 318 (random no.) in our input file.
+The value of x,y and c respectively are 362.763,354.907,2 which is the record no. 279 (random no.) in our input file.
+The value of x,y and c respectively are 142.127,365.116,1 which is the record no. 176 (random no.) in our input file.
+The value of x,y and c respectively are 321.18,315.663,2 which is the record no. 210 (random no.) in our input file.
+The value of x,y and c respectively are 319.294,329.545,2 which is the record no. 228 (random no.) in our input file.
+The value of x,y and c respectively are 309.395,365.09,2 which is the record no. 289 (random no.) in our input file.
+The value of x,y and c respectively are 329.298,307.033,2 which is the record no. 202 (random no.) in our input file.
+The value of x,y and c respectively are 645.513,334.213,0 which is the record no. 40 (random no.) in our input file.
+The value of x,y and c respectively are 678.36,323.472,0 which is the record no. 18 (random no.) in our input file.
+The value of x,y and c respectively are 337.131,362.059,2 which is the record no. 285 (random no.) in our input file.
+The value of x,y and c respectively are 328.436,316.801,2 which is the record no. 212 (random no.) in our input file.
+The value of x,y and c respectively are 638.583,365.65,0 which is the record no. 82 (random no.) in our input file.
+---------------------------------------
+This is stratified sampling
+Size of stratified sample is 324
+value of x is 639.416 value of y is 342.035 value of c is 0 with random no value 50
+value of x is 639.035 value of y is 324.523 value of c is 0 with random no value 21
+value of x is 649.948 value of y is 333.168 value of c is 0 with random no value 37
+value of x is 674.821 value of y is 315.093 value of c is 0 with random no value 8
+value of x is 459.115 value of y is 361.888 value of c is 0 with random no value 88
+value of x is 654.751 value of y is 347.881 value of c is 0 with random no value 62
+value of x is 644.003 value of y is 320.565 value of c is 0 with random no value 13
+value of x is 662.056 value of y is 342.529 value of c is 0 with random no value 52
+value of x is 647.217 value of y is 340.107 value of c is 0 with random no value 44
+value of x is 159.853 value of y is 342.331 value of c is 1 with random no value 56
+value of x is 166.321 value of y is 342.129 value of c is 1 with random no value 55
+value of x is 133.87 value of y is 335.02 value of c is 1 with random no value 40
+value of x is 190.731 value of y is 193.206 value of c is 1 with random no value 116
+value of x is -7.68682 value of y is 414.182 value of c is 1 with random no value 120
+value of x is 133.87 value of y is 335.02 value of c is 1 with random no value 40
+value of x is 162.034 value of y is 345.997 value of c is 1 with random no value 66
+value of x is 251.602 value of y is 456.736 value of c is 1 with random no value 121
+value of x is 179.727 value of y is 378.364 value of c is 1 with random no value 110
+value of x is 133.87 value of y is 335.02 value of c is 1 with random no value 40
+value of x is 172.193 value of y is 364.859 value of c is 1 with random no value 88
+value of x is 251.602 value of y is 456.736 value of c is 1 with random no value 121
+value of x is 453.329 value of y is 393.637 value of c is 2 with random no value 111
+value of x is 321.18 value of y is 315.663 value of c is 2 with random no value 10
+value of x is 319.294 value of y is 329.545 value of c is 2 with random no value 28
+value of x is 364.513 value of y is 330.463 value of c is 2 with random no value 32
+value of x is 335.147 value of y is 314.891 value of c is 2 with random no value 9
+value of x is 328.436 value of y is 316.801 value of c is 2 with random no value 12
+value of x is 354.668 value of y is 341.4 value of c is 2 with random no value 52
+value of x is 189.573 value of y is 220.738 value of c is 2 with random no value 113
+value of x is 326.485 value of y is 370.347 value of c is 2 with random no value 115
+value of x is 369.885 value of y is 325.104 value of c is 2 with random no value 23
+value of x is 364.513 value of y is 330.463 value of c is 2 with random no value 32
+value of x is 307.329 value of y is 340.702 value of c is 2 with random no value 50
+value of x is 471.17 value of y is 82.281 value of c is 3 with random no value 75
+value of x is 424.294 value of y is 97.509 value of c is 3 with random no value 105
+value of x is 490.836 value of y is 166.186 value of c is 3 with random no value 182
+value of x is 453.356 value of y is 299.407 value of c is 3 with random no value 211
+value of x is 477.29 value of y is 82.318 value of c is 3 with random no value 76
+value of x is 436.353 value of y is 91.968 value of c is 3 with random no value 102
+value of x is 473.674 value of y is 69.556 value of c is 3 with random no value 47
+value of x is 444.186 value of y is 74.773 value of c is 3 with random no value 61
+value of x is 513.167 value of y is 84.628 value of c is 3 with random no value 84
+value of x is 469.419 value of y is 144.455 value of c is 3 with random no value 141
+value of x is 558.885 value of y is -16.9282 value of c is 3 with random no value 216
+value of x is 441.896 value of y is 97.95 value of c is 3 with random no value 106
+value of x is 455.329 value of y is 78.197 value of c is 3 with random no value 67
+value of x is 481.596 value of y is 150.747 value of c is 3 with random no value 153
+value of x is 506.497 value of y is 171.391 value of c is 3 with random no value 194
+value of x is 455.69 value of y is 139.93 value of c is 3 with random no value 134
+value of x is 485.405 value of y is 162.724 value of c is 3 with random no value 172
+value of x is 492.554 value of y is 156.945 value of c is 3 with random no value 163
+value of x is 429.847 value of y is 89.107 value of c is 3 with random no value 98
+value of x is 461.595 value of y is 69.35 value of c is 3 with random no value 46
+value of x is 460.684 value of y is 168.549 value of c is 3 with random no value 187
+value of x is 526.738 value of y is 80.445 value of c is 3 with random no value 71
+value of x is 508.167 value of y is 224.352 value of c is 4 with random no value 143
+value of x is 523.439 value of y is 153.221 value of c is 4 with random no value 52
+value of x is 571.288 value of y is 186.591 value of c is 4 with random no value 80
+value of x is 498.585 value of y is 224.761 value of c is 4 with random no value 145
+value of x is 489.75 value of y is 242.396 value of c is 4 with random no value 175
+value of x is 496.519 value of y is 231.653 value of c is 4 with random no value 159
+value of x is 564.062 value of y is 150.091 value of c is 4 with random no value 47
+value of x is 560.184 value of y is 192.29 value of c is 4 with random no value 85
+value of x is 504.684 value of y is 118.564 value of c is 4 with random no value 1
+value of x is 530.871 value of y is 239.966 value of c is 4 with random no value 174
+value of x is 484.317 value of y is 233.798 value of c is 4 with random no value 162
+value of x is 519.289 value of y is 252.735 value of c is 4 with random no value 192
+value of x is 528.705 value of y is 144.861 value of c is 4 with random no value 40
+value of x is 499.386 value of y is 126.144 value of c is 4 with random no value 17
+value of x is 524.935 value of y is 138.144 value of c is 4 with random no value 34
+value of x is 497.288 value of y is 116.862 value of c is 4 with random no value 0
+value of x is 569.252 value of y is 150.45 value of c is 4 with random no value 48
+value of x is 549.936 value of y is 207.559 value of c is 4 with random no value 102
+value of x is 476.785 value of y is 207.988 value of c is 4 with random no value 103
+value of x is 506.602 value of y is 239.498 value of c is 4 with random no value 173
+value of x is 554.604 value of y is 156.498 value of c is 4 with random no value 58
+value of x is 238.139 value of y is 144.096 value of c is 5 with random no value 42
+value of x is 77.896 value of y is 166.356 value of c is 5 with random no value 204
+value of x is 240.497 value of y is 159.38 value of c is 5 with random no value 153
+value of x is 277.894 value of y is 160.226 value of c is 5 with random no value 163
+value of x is 220.62 value of y is 160.152 value of c is 5 with random no value 162
+value of x is 38.696 value of y is 175.224 value of c is 5 with random no value 273
+value of x is 96.634 value of y is 170.521 value of c is 5 with random no value 233
+value of x is 101.462 value of y is 112.709 value of c is 5 with random no value 358
+value of x is 246.255 value of y is 144.218 value of c is 5 with random no value 44
+value of x is 265.086 value of y is 171.24 value of c is 5 with random no value 238
+value of x is 173.854 value of y is 161.612 value of c is 5 with random no value 351
+value of x is 195.63 value of y is 172.617 value of c is 5 with random no value 252
+value of x is 260.926 value of y is 218.832 value of c is 5 with random no value 360
+value of x is 27.887 value of y is 146.941 value of c is 5 with random no value 68
+value of x is 233.965 value of y is 172.782 value of c is 5 with random no value 253
+value of x is 176.647 value of y is 175.237 value of c is 5 with random no value 274
+value of x is 73.251 value of y is 159.11 value of c is 5 with random no value 148
+value of x is 302.004 value of y is 173.47 value of c is 5 with random no value 260
+value of x is 324.884 value of y is 170.819 value of c is 5 with random no value 234
+value of x is 233.166 value of y is 118.518 value of c is 5 with random no value 350
+value of x is 44.019 value of y is 183.254 value of c is 5 with random no value 338
+value of x is 268.271 value of y is 144.971 value of c is 5 with random no value 54
+value of x is 278.524 value of y is 165.991 value of c is 5 with random no value 201
+value of x is 112.369 value of y is 164.192 value of c is 5 with random no value 190
+value of x is 181.293 value of y is 148.633 value of c is 5 with random no value 84
+value of x is 126.689 value of y is 144.081 value of c is 5 with random no value 41
+value of x is 66.539 value of y is 170.91 value of c is 5 with random no value 235
+value of x is 212.71 value of y is 180.665 value of c is 5 with random no value 317
+value of x is 328.328 value of y is 161.379 value of c is 5 with random no value 167
+value of x is 132.259 value of y is 175.665 value of c is 5 with random no value 277
+value of x is 55.027 value of y is 177.406 value of c is 5 with random no value 301
+value of x is 286.909 value of y is 154.986 value of c is 5 with random no value 132
+value of x is 66.93 value of y is 161.463 value of c is 5 with random no value 169
+value of x is 66.539 value of y is 170.91 value of c is 5 with random no value 235
+value of x is 272.427 value of y is 166.829 value of c is 5 with random no value 207
+value of x is 266.97 value of y is 159.699 value of c is 5 with random no value 157
+value of x is 319.669 value of y is 426.467 value of c is 6 with random no value 832
+value of x is 301.88 value of y is 180.68 value of c is 6 with random no value 931
+value of x is 175.443 value of y is 423.556 value of c is 6 with random no value 813
+value of x is 276.546 value of y is 403.014 value of c is 6 with random no value 650
+value of x is 30.152 value of y is 302.263 value of c is 6 with random no value 335
+value of x is 208.478 value of y is 280.366 value of c is 6 with random no value 224
+value of x is 173.589 value of y is 417.888 value of c is 6 with random no value 778
+value of x is 19.871 value of y is 312.744 value of c is 6 with random no value 380
+value of x is 124.82 value of y is 261.864 value of c is 6 with random no value 84
+value of x is 33.847 value of y is 387.077 value of c is 6 with random no value 565
+value of x is 357.73 value of y is 278.505 value of c is 6 with random no value 211
+value of x is 181.985 value of y is 260.158 value of c is 6 with random no value 73
+value of x is 226.241 value of y is 410.568 value of c is 6 with random no value 715
+value of x is 281.535 value of y is 427.357 value of c is 6 with random no value 838
+value of x is 228.677 value of y is 408.656 value of c is 6 with random no value 696
+value of x is 293.242 value of y is 426.633 value of c is 6 with random no value 834
+value of x is 150.81 value of y is 427.675 value of c is 6 with random no value 842
+value of x is 413.243 value of y is 293.071 value of c is 6 with random no value 306
+value of x is 364.302 value of y is 270.024 value of c is 6 with random no value 142
+value of x is 420.05 value of y is 394.812 value of c is 6 with random no value 595
+value of x is 172.022 value of y is 255.744 value of c is 6 with random no value 38
+value of x is 7.798 value of y is 335.318 value of c is 6 with random no value 426
+value of x is 221.329 value of y is 275.558 value of c is 6 with random no value 187
+value of x is 95.351 value of y is 302.391 value of c is 6 with random no value 337
+value of x is 177.699 value of y is 430.005 value of c is 6 with random no value 856
+value of x is 438.943 value of y is 311.816 value of c is 6 with random no value 374
+value of x is 54.068 value of y is 321.808 value of c is 6 with random no value 401
+value of x is 128.558 value of y is 287.806 value of c is 6 with random no value 271
+value of x is 19.871 value of y is 312.744 value of c is 6 with random no value 380
+value of x is 179.995 value of y is 429.387 value of c is 6 with random no value 851
+value of x is 278.675 value of y is 317.763 value of c is 6 with random no value 916
+value of x is 473.169 value of y is 349.682 value of c is 6 with random no value 455
+value of x is 433.021 value of y is 274.762 value of c is 6 with random no value 936
+value of x is 205.094 value of y is 245.336 value of c is 6 with random no value 4
+value of x is 273.862 value of y is 281.305 value of c is 6 with random no value 229
+value of x is 279.992 value of y is 423.596 value of c is 6 with random no value 815
+value of x is 213.511 value of y is 437.019 value of c is 6 with random no value 892
+value of x is 169.052 value of y is 436.336 value of c is 6 with random no value 884
+value of x is 309.245 value of y is 235.723 value of c is 6 with random no value 922
+value of x is 281.86 value of y is 417.163 value of c is 6 with random no value 768
+value of x is 432.437 value of y is 311.366 value of c is 6 with random no value 371
+value of x is 226.697 value of y is 263.483 value of c is 6 with random no value 99
+value of x is 141.203 value of y is 265.822 value of c is 6 with random no value 116
+value of x is 116.504 value of y is 398.588 value of c is 6 with random no value 622
+value of x is 411.323 value of y is 303.126 value of c is 6 with random no value 340
+value of x is 221.329 value of y is 275.558 value of c is 6 with random no value 187
+value of x is 146.538 value of y is 273.415 value of c is 6 with random no value 170
+value of x is 269.046 value of y is 415.209 value of c is 6 with random no value 754
+value of x is 416.987 value of y is 314.997 value of c is 6 with random no value 385
+value of x is 193.835 value of y is 273.965 value of c is 6 with random no value 173
+value of x is 407.588 value of y is 303.313 value of c is 6 with random no value 341
+value of x is 208.884 value of y is 407.714 value of c is 6 with random no value 691
+value of x is 108.523 value of y is 282.87 value of c is 6 with random no value 243
+value of x is 355.627 value of y is 290.567 value of c is 6 with random no value 291
+value of x is 19.871 value of y is 312.744 value of c is 6 with random no value 380
+value of x is 85.698 value of y is 380.122 value of c is 6 with random no value 532
+value of x is 345.851 value of y is 288.391 value of c is 6 with random no value 275
+value of x is 176.248 value of y is 256.856 value of c is 6 with random no value 44
+value of x is 352.804 value of y is 291.482 value of c is 6 with random no value 296
+value of x is 169.052 value of y is 436.336 value of c is 6 with random no value 884
+value of x is 8.743 value of y is 338.975 value of c is 6 with random no value 435
+value of x is 277.793 value of y is 431.339 value of c is 6 with random no value 862
+value of x is 296.97 value of y is 246.026 value of c is 6 with random no value 6
+value of x is 46.813 value of y is 352.385 value of c is 6 with random no value 462
+value of x is 146.538 value of y is 273.415 value of c is 6 with random no value 170
+value of x is 51.622 value of y is 306.263 value of c is 6 with random no value 349
+value of x is 43.805 value of y is 392.703 value of c is 6 with random no value 582
+value of x is 449.539 value of y is 370.556 value of c is 6 with random no value 505
+value of x is 350.834 value of y is 393.015 value of c is 6 with random no value 587
+value of x is 129.748 value of y is 415.173 value of c is 6 with random no value 751
+value of x is 58.693 value of y is 307.798 value of c is 6 with random no value 354
+value of x is 270.371 value of y is 434.949 value of c is 6 with random no value 877
+value of x is 268.136 value of y is 276.218 value of c is 6 with random no value 192
+value of x is 383.414 value of y is 415.2 value of c is 6 with random no value 752
+value of x is 179.18 value of y is 279.618 value of c is 6 with random no value 220
+value of x is 87.172 value of y is 284.134 value of c is 6 with random no value 253
+value of x is 78.412 value of y is 402.465 value of c is 6 with random no value 647
+value of x is 208.884 value of y is 407.714 value of c is 6 with random no value 691
+value of x is 364.009 value of y is 403.632 value of c is 6 with random no value 657
+value of x is 190.273 value of y is 413.899 value of c is 6 with random no value 740
+value of x is 196.392 value of y is 278.01 value of c is 6 with random no value 206
+value of x is 109.868 value of y is 292.862 value of c is 6 with random no value 303
+value of x is 285.446 value of y is 411.998 value of c is 6 with random no value 725
+value of x is 82.104 value of y is 408.895 value of c is 6 with random no value 701
+value of x is 241.73 value of y is 282.281 value of c is 6 with random no value 240
+value of x is 303.317 value of y is 405.982 value of c is 6 with random no value 676
+value of x is 112.874 value of y is 418.188 value of c is 6 with random no value 781
+value of x is 401.52 value of y is 309.01 value of c is 6 with random no value 360
+value of x is 213.1 value of y is 410.277 value of c is 6 with random no value 711
+value of x is 247.657 value of y is 259.677 value of c is 6 with random no value 67
+value of x is 129.748 value of y is 415.173 value of c is 6 with random no value 751
+value of x is 41.708 value of y is 347.081 value of c is 6 with random no value 452
+value of x is 386.608 value of y is 289.194 value of c is 6 with random no value 282
+value of x is 367.499 value of y is 283.391 value of c is 6 with random no value 908
+value of x is 129.466 value of y is 424.13 value of c is 6 with random no value 819
+value of x is 415.751 value of y is 272.418 value of c is 6 with random no value 909
+value of x is 390.64 value of y is 293.958 value of c is 6 with random no value 312
+value of x is 246.555 value of y is 109.607 value of c is 7 with random no value 293
+value of x is 73.978 value of y is 100.794 value of c is 7 with random no value 236
+value of x is 236.939 value of y is 96.547 value of c is 7 with random no value 214
+value of x is 315.754 value of y is 85.203 value of c is 7 with random no value 127
+value of x is 126.396 value of y is 107.061 value of c is 7 with random no value 285
+value of x is 172.993 value of y is 95.744 value of c is 7 with random no value 206
+value of x is 112.016 value of y is 84.655 value of c is 7 with random no value 124
+value of x is 14.943 value of y is 109.986 value of c is 7 with random no value 296
+value of x is 273.514 value of y is 102.993 value of c is 7 with random no value 261
+value of x is 357.446 value of y is -16.7882 value of c is 7 with random no value 328
+value of x is 67.907 value of y is 90.611 value of c is 7 with random no value 164
+value of x is 220.875 value of y is 78.13 value of c is 7 with random no value 78
+value of x is 184.225 value of y is 77.736 value of c is 7 with random no value 75
+value of x is 17.618 value of y is 76.707 value of c is 7 with random no value 65
+value of x is 28.819 value of y is 81.143 value of c is 7 with random no value 98
+value of x is 260.378 value of y is 98.251 value of c is 7 with random no value 225
+value of x is 45.832 value of y is 84.49 value of c is 7 with random no value 122
+value of x is 319.142 value of y is 92.307 value of c is 7 with random no value 182
+value of x is 259.969 value of y is 68.072 value of c is 7 with random no value 1
+value of x is 118.059 value of y is 100.328 value of c is 7 with random no value 234
+value of x is 98.283 value of y is 102.789 value of c is 7 with random no value 256
+value of x is 67.156 value of y is 98.011 value of c is 7 with random no value 222
+value of x is 289.186 value of y is 80.511 value of c is 7 with random no value 94
+value of x is 178.396 value of y is 81.042 value of c is 7 with random no value 97
+value of x is 89.968 value of y is 79.221 value of c is 7 with random no value 87
+value of x is 192.915 value of y is 95.776 value of c is 7 with random no value 207
+value of x is 275.25 value of y is 71.139 value of c is 7 with random no value 24
+value of x is 172.993 value of y is 95.744 value of c is 7 with random no value 206
+value of x is 232.446 value of y is 214.984 value of c is 7 with random no value 349
+value of x is 162.565 value of y is 108.361 value of c is 7 with random no value 288
+value of x is 33.2138 value of y is 10.0791 value of c is 7 with random no value 348
+value of x is 116.821 value of y is 69.283 value of c is 7 with random no value 14
+value of x is 232.675 value of y is 108.73 value of c is 7 with random no value 291
+value of x is 98.283 value of y is 102.789 value of c is 7 with random no value 256
+value of x is 95.38 value of y is 105.52 value of c is 7 with random no value 275
+value of x is 510.187 value of y is 332.044 value of c is 8 with random no value 390
+value of x is 561.304 value of y is 459.931 value of c is 8 with random no value 735
+value of x is 630.267 value of y is 266.767 value of c is 8 with random no value 246
+value of x is 598.838 value of y is 224.764 value of c is 8 with random no value 196
+value of x is 641.56 value of y is 181.521 value of c is 8 with random no value 134
+value of x is 534.354 value of y is 398.824 value of c is 8 with random no value 515
+value of x is 527.026 value of y is 416.579 value of c is 8 with random no value 589
+value of x is 621.702 value of y is 164.641 value of c is 8 with random no value 109
+value of x is 622.982 value of y is 416.399 value of c is 8 with random no value 587
+value of x is 629.581 value of y is 280.84 value of c is 8 with random no value 275
+value of x is 647.44 value of y is 440.969 value of c is 8 with random no value 680
+value of x is 524.43 value of y is 434.446 value of c is 8 with random no value 657
+value of x is 605.596 value of y is 434.319 value of c is 8 with random no value 656
+value of x is 510.521 value of y is 426.533 value of c is 8 with random no value 621
+value of x is 598.586 value of y is 284.883 value of c is 8 with random no value 292
+value of x is 510.521 value of y is 426.533 value of c is 8 with random no value 621
+value of x is 623.634 value of y is 386.466 value of c is 8 with random no value 476
+value of x is 566.252 value of y is 376.006 value of c is 8 with random no value 460
+value of x is 657.772 value of y is 205.355 value of c is 8 with random no value 173
+value of x is 631.138 value of y is 206.869 value of c is 8 with random no value 175
+value of x is 657.381 value of y is 206.686 value of c is 8 with random no value 174
+value of x is 654.422 value of y is 231.377 value of c is 8 with random no value 202
+value of x is 567.411 value of y is 281.058 value of c is 8 with random no value 277
+value of x is 621.991 value of y is 241.452 value of c is 8 with random no value 212
+value of x is 615.776 value of y is 123.529 value of c is 8 with random no value 52
+value of x is 527.026 value of y is 416.579 value of c is 8 with random no value 589
+value of x is 607.694 value of y is 402.076 value of c is 8 with random no value 529
+value of x is 657.117 value of y is 452.665 value of c is 8 with random no value 715
+value of x is 496.355 value of y is 360.734 value of c is 8 with random no value 437
+value of x is 665.457 value of y is 164.73 value of c is 8 with random no value 775
+value of x is 672.49 value of y is -66.5025 value of c is 8 with random no value 781
+value of x is 521.94 value of y is 319.312 value of c is 8 with random no value 373
+value of x is 615.151 value of y is 186.791 value of c is 8 with random no value 144
+value of x is 610.315 value of y is 279.406 value of c is 8 with random no value 267
+value of x is 511.288 value of y is 325.661 value of c is 8 with random no value 384
+value of x is 655.865 value of y is 99.736 value of c is 8 with random no value 30
+value of x is 633.983 value of y is 81.757 value of c is 8 with random no value 12
+value of x is 598.838 value of y is 224.764 value of c is 8 with random no value 196
+value of x is 628.444 value of y is 118.015 value of c is 8 with random no value 45
+value of x is 568.39 value of y is 457.755 value of c is 8 with random no value 732
+value of x is 517.716 value of y is 397.381 value of c is 8 with random no value 511
+value of x is 656.369 value of y is 110.216 value of c is 8 with random no value 38
+value of x is 543.406 value of y is 314.782 value of c is 8 with random no value 364
+value of x is 613.794 value of y is 428.565 value of c is 8 with random no value 632
+value of x is 557.78 value of y is 425.207 value of c is 8 with random no value 619
+value of x is 600.056 value of y is 427.462 value of c is 8 with random no value 626
+value of x is 638.731 value of y is 183.472 value of c is 8 with random no value 138
+value of x is 625.616 value of y is 196.519 value of c is 8 with random no value 159
+value of x is 558.663 value of y is 445.26 value of c is 8 with random no value 698
+value of x is 547.908 value of y is 373.611 value of c is 8 with random no value 456
+value of x is 526.011 value of y is 433.833 value of c is 8 with random no value 653
+value of x is 647.14 value of y is 108.757 value of c is 8 with random no value 37
+value of x is 536.211 value of y is 368.434 value of c is 8 with random no value 444
+value of x is 598.961 value of y is 284.439 value of c is 8 with random no value 291
+value of x is 570.477 value of y is 313.669 value of c is 8 with random no value 362
+value of x is 547.195 value of y is 424.432 value of c is 8 with random no value 617
+value of x is 635.234 value of y is 81.065 value of c is 8 with random no value 10
+value of x is 650.184 value of y is 87.129 value of c is 8 with random no value 17
+value of x is 640.872 value of y is 396.954 value of c is 8 with random no value 509
+value of x is 537.59 value of y is 410.962 value of c is 8 with random no value 564
+value of x is 511.288 value of y is 325.661 value of c is 8 with random no value 384
+value of x is 603.368 value of y is 297.967 value of c is 8 with random no value 327
+value of x is 621.208 value of y is 451.384 value of c is 8 with random no value 712
+value of x is 813.5 value of y is -133.317 value of c is 8 with random no value 792
+value of x is 609.641 value of y is 262.757 value of c is 8 with random no value 239
+value of x is 631.953 value of y is 90.276 value of c is 8 with random no value 21
+value of x is 637.739 value of y is 447.422 value of c is 8 with random no value 707
+value of x is 657.491 value of y is 189.694 value of c is 8 with random no value 148
+value of x is 625.616 value of y is 196.519 value of c is 8 with random no value 159
+value of x is 574.955 value of y is 297.113 value of c is 8 with random no value 326
+value of x is 551.946 value of y is 321.267 value of c is 8 with random no value 376
+value of x is 504.528 value of y is -46.2297 value of c is 8 with random no value 796
+value of x is 632.776 value of y is 438.067 value of c is 8 with random no value 669
+value of x is 542.555 value of y is 326.774 value of c is 8 with random no value 388
+value of x is 624.628 value of y is 270.96 value of c is 8 with random no value 251
+value of x is 643.854 value of y is 409.022 value of c is 8 with random no value 553
+value of x is 643.606 value of y is 156.761 value of c is 8 with random no value 98
+value of x is 672.278 value of y is 438.864 value of c is 8 with random no value 670
+value of x is 637.024 value of y is 162.813 value of c is 8 with random no value 104
+value of x is 569.221 value of y is 462.349 value of c is 8 with random no value 739
